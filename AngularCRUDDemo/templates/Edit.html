@@ -1,0 +1,47 @@
+﻿<h3>
+    {{ title }}
+</h3>
+<hr />
+<form role="form" style="max-width: 500px;">
+    <strong class="error">{{ error }}</strong>
+    <div class="form-group">
+        <label for="Name">
+            Name
+        </label>
+        <input type="text" class="form-control" id="Name" ng-model="Name" />
+    </div>
+    <div class="form-group">
+        <label for="BoundsLatA">
+            Latitude of first point:
+        </label>
+        <input type="text" class="form-control" id="BoundsLatA" ng-model="BoundsLatA" />
+    </div>
+    <div class="form-group">
+        <label for="BoundsLngA">
+            Longitude of first point:
+        </label>
+        <input type="text" class="form-control" id="BoundsLngA" ng-model="BoundsLngA" />
+    </div>
+    <div class="form-group">
+        <label for="BoundsLatB">
+            Latitude of second point:
+        </label>
+        <input type="text" class="form-control" id="BoundsLatB" ng-model="BoundsLatB" />
+    </div>
+    <div class="form-group">
+        <label for="BoundsLngB">
+            Longitude of second point:
+        </label>
+        <input type="text" class="form-control" id="BoundsLngB" ng-model="BoundsLngB" />
+    </div>
+    <div class="form-group">
+        <label for="CompanyName">
+            Company:
+        </label>
+        <input type="text" class="form-control" id="CompanyName" ng-model="CompanyName" />
+    </div>
+    <a href="#/list" class="btn btn-info">Back to List</a>
+    <button type="submit" class="btn btn-default" ng-click="save()">
+        Submit
+    </button>
+</form>

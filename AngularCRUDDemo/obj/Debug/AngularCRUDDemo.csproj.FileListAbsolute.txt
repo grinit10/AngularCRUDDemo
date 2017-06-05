@@ -1,0 +1,234 @@
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\ApplicationInsights.config
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csc.exe
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\vbc.exe
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.dll.config
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.pdb
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Web.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Helpers.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Mvc.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Razor.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Razor.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Web.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Razor.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Razor.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Helpers.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Mvc.xml
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.csprojResolveAssemblyReference.cache
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.dll
+c:\users\opentuser8\documents\visual studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.pdb
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Common.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\Common.pdb
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\ApplicationInsights.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csc.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\vbc.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.dll.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\AngularCRUDDemo.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Web.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Helpers.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Mvc.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Razor.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.Web.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Razor.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Helpers.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Web.Mvc.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.csprojResolveAssemblyReference.cache
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csc.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csc.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csi.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csi.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\csi.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.AppContext.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Console.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\vbc.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\roslyn\vbc.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\ApplicationInsights.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csc.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csc.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csc.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csi.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csi.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\csi.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.AppContext.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Console.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\vbc.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\vbc.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\vbc.rsp
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\AngularCRUDDemo.dll.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\AngularCRUDDemo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\AngularCRUDDemo.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.Web.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Helpers.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Mvc.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Razor.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.Web.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Razor.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Helpers.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\bin\System.Web.Mvc.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\AngularCRUDDemo\obj\Debug\AngularCRUDDemo.csprojResolveAssemblyReference.cache
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Newtonsoft.Json.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Net.Http.Extensions.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Net.Http.Primitives.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\AngularCRUDDemo\bin\Newtonsoft.Json.xml

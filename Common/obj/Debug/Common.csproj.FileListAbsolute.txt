@@ -1,0 +1,101 @@
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Common.dll.config
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Common.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Common.pdb
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EntityFramework.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Owin.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EnvDTE.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EnvDTE80.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\stdole.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EntityFramework.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\obj\Debug\Common.dll
+C:\Users\OPENTUSER8\Documents\Visual Studio 2015\Projects\AngularCRUDDemo\Common\obj\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Common.dll.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EnvDTE.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EnvDTE80.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\stdole.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\obj\Debug\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\obj\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Common.dll.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Owin.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EnvDTE.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EnvDTE80.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\stdole.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debug\Microsoft.AspNet.Scaffolding.12.0.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

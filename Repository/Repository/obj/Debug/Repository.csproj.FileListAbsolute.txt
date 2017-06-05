@@ -1,0 +1,12 @@
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Repository.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Repository.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\obj\Debug\Repository.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\obj\Debug\Repository.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Repository.dll.config
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Common.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,74 @@
+﻿<h3>
+    Are you want to sure to delete this record?
+</h3>
+<hr />
+<form class="form-horizontal" style="max-width: 500px;">
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            Name :
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ Name }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            atitude of first point:
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ BoundsLatA }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            Longitude of first point:
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ BoundsLngA }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            Latitude of second point:
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ BoundsLatB }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            Longitude of second point:
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ BoundsLngB }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3">
+            Company:
+        </label>
+        <div class="col-xs-9">
+            <p class="form-control-static">
+                {{ CompanyName }}
+            </p>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-xs-offset-3 col-xs-9 text-center">
+            <a href="#/list" class="btn btn-info">Back to List</a>
+            <button type="submit" class="btn btn-primary" ng-click="delete()">
+                Delete
+            </button>
+        </div>
+    </div>
+</form>

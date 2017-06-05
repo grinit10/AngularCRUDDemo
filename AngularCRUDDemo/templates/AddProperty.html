@@ -1,0 +1,34 @@
+﻿<h3>Add Property</h3>
+{{message}}
+
+<form name="AddPropertyForm"  ng-submit="Addproperty();">
+    <table>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" ng-model="property.Name"/></td>
+        </tr>
+        <tr>
+            <td>BoundsLatA</td>
+            <td><input type="number" ng-model="property.BoundsLatA" /></td>
+        </tr>
+        <tr>
+            <td>BoundsLngA</td>
+            <td><input type="number" ng-model="property.BoundsLngA" /></td>
+        </tr>
+        <tr>
+            <td>BoundsLatB</td>
+            <td><input type="number" ng-model="property.BoundsLatB" /></td>
+        </tr>
+        <tr>
+            <td>BoundsLngB</td>
+            <td><input type="number" ng-model="property.BoundsLngB" /></td>
+        </tr>
+        <tr>
+            <td>Company</td>
+            <td><input type="number" ng-model="property.CompanyName" /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="submit" /></td>
+        </tr>
+    </table>
+</form>
