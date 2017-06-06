@@ -57,13 +57,25 @@
         </tbody>
     </table>
 
-    <div class="right">
-        <dir-pagination-controls max-size="20"
-                                 direction-links="true"
-                                 boundary-links="true">
-        </dir-pagination-controls>
-    </div>
-    <div class="text-center">
-        <input class="input-sm" type="number" ng-model="itemsPerPage" placeholder=1 />
-    </div>
+    <table align="right">
+        <tr>
+            <td>
+                <div class="text-center">
+                    <span>Items per page:</span>
+                    <input class="input-sm" type="number" ng-model="itemsPerPage" placeholder=5 value="5" />
+                </div>
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            <td>
+                <div class="right">
+                    <dir-pagination-controls max-size="20" direction-links="true" boundary-links="true">
+                    </dir-pagination-controls>
+                </div>
+
+            </td>
+        </tr>
+    </table>
+
 </div>
