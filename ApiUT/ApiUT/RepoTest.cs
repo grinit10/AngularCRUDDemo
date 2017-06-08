@@ -5,9 +5,9 @@ using Common.Viewmodels;
 using System.Linq;
 using System.Data.Entity;
 using Moq;
-using Common.Interfaces;
 using Repository.Repositories;
 using Common.Models;
+using Dac.Interfaces;
 
 namespace ApiUT
 {
@@ -58,7 +58,7 @@ namespace ApiUT
             MockCompanyDBSet.Setup(m => m.ElementType).Returns(Companydata.ElementType);
             MockCompanyDBSet.Setup(m => m.GetEnumerator()).Returns(Companydata.GetEnumerator());
 
-            Mock<IPropertyDBContext> customDbContextMock = new Mock<IPropertyDBContext>();
+            Mock<IApplicationDBContext> customDbContextMock = new Mock<IApplicationDBContext>();
             customDbContextMock
                 .Setup(x => x.Properties)
                 .Returns(MockPropertyDBSet.Object);
@@ -90,6 +90,18 @@ namespace ApiUT
             Propertyvm expectd = expectdProperties[0];
 
             Assert.AreEqual(expectd.Name, rslt.Name);
+        }
+
+        [TestMethod]
+        public void TestEditproperties()
+        {
+            PropertyRepository repo = Mockdata();
+            Propertyvm trgtProp = new Propertyvm();
+            trgtProp = expectdProperties[0];
+            trgtProp.Name = "Changed name";
+            repo.Edit(trgtProp);
+
+            Assert.AreEqual(trgtProp.Name, expectdProperties[0].Name);
         }
     }
 }

@@ -88,3 +88,5 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Microsoft.
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Dac.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Api\Api\bin\Dac.pdb

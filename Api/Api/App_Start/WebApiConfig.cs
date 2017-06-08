@@ -3,8 +3,8 @@ using System.Web.Http;
 using Api.Resolver;
 using Repository.Interfaces;
 using Repository.Repositories;
-using Common.Interfaces;
-using Common.DbContext;
+using Dac.DbContext;
+using Dac.Interfaces;
 
 namespace Api
 {
@@ -14,7 +14,7 @@ namespace Api
         {
             var container = new UnityContainer();
             container.RegisterType<IPropertyRepository, PropertyRepository>(new HierarchicalLifetimeManager());
-            container.RegisterType<IPropertyDBContext, PropertyDBContext>(new HierarchicalLifetimeManager());
+            container.RegisterType<IApplicationDBContext, ApplicationDBContext>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
             // Web API configuration and services
 

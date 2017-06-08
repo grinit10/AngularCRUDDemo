@@ -14,3 +14,5 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.csprojResolveAssemblyReference.cache
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\Dac.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\Dac.pdb

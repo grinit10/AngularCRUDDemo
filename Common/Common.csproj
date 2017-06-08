@@ -89,17 +89,17 @@
   <ItemGroup>
     <Compile Include="Abstract\AuditableEntity.cs" />
     <Compile Include="Abstract\Entity.cs" />
-    <Compile Include="DbContext\PropertyDBContext.cs" />
     <Compile Include="Enum\ImageType.cs" />
     <Compile Include="Enum\ObservationType.cs" />
     <Compile Include="Enum\PinPriority.cs" />
     <Compile Include="Interfaces\IAuditableEntity.cs" />
     <Compile Include="Interfaces\IEntity.cs" />
-    <Compile Include="Interfaces\IPropertyDBContext.cs" />
     <Compile Include="Models\Company.cs" />
     <Compile Include="Models\Property.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Viewmodels\Propertyvm.cs" />
+    <Compile Include="Viewmodels\Registervm.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

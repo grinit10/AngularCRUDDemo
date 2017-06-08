@@ -10,3 +10,5 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Common.pdb
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Dac.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Repository\Repository\bin\Debug\Dac.pdb

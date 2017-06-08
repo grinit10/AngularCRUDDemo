@@ -98,4 +98,3 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\bin\Debu
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo - Copy\Common\obj\Debug\Common.pdb
-C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

@@ -14,6 +14,6 @@ namespace Common.Models
         [Display(Name = "Company Name")]
         public string Name { get; set; }
 
-        public virtual IEnumerable<Property> Properties { get; set; }
+        public virtual List<Property> Properties { get; set; }
     }
 }

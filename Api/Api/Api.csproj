@@ -131,6 +131,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Resolver\UnityResolver.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\PropertyController.cs" />
@@ -159,6 +160,10 @@
     <ProjectReference Include="..\..\Common\Common.csproj">
       <Project>{AC5EB4DE-221D-4457-9941-8EFCECE9B6AD}</Project>
       <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dac\Dac\Dac.csproj">
+      <Project>{B352998C-A6D8-4746-AC25-14A1E9E03936}</Project>
+      <Name>Dac</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Repository\Repository\Repository.csproj">
       <Project>{9bb5054b-11e2-4e6e-b943-6b1b6e21b57e}</Project>

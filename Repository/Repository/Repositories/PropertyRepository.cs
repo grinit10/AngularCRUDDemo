@@ -1,18 +1,18 @@
-﻿using Common.Interfaces;
-using Common.Models;
+﻿using Common.Models;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using Common.Viewmodels;
+using Dac.Interfaces;
 
 namespace Repository.Repositories
 {
     public class PropertyRepository : IDisposable, IPropertyRepository
     {
-        private IPropertyDBContext _db;
+        private IApplicationDBContext _db;
 
-        public PropertyRepository(IPropertyDBContext ctx)
+        public PropertyRepository(IApplicationDBContext ctx)
         {
             _db = ctx;
         }

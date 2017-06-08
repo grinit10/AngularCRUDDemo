@@ -58,6 +58,10 @@
       <Project>{ac5eb4de-221d-4457-9941-8efcece9b6ad}</Project>
       <Name>Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Dac\Dac\Dac.csproj">
+      <Project>{b352998c-a6d8-4746-ac25-14a1e9e03936}</Project>
+      <Name>Dac</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
