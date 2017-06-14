@@ -1,14 +1,18 @@
-﻿using System;
+﻿using Common.Identity;
+using Microsoft.AspNet.Identity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Common.Models
 {
-    class User : AuditableEntity<int>
+    public class User : AuditableEntity<int>
     {
+        public User()
+        {
+            this.Roles = new List<Role>();
+        }
+        
         [Required]
         public string Name { get; set; }
         public string password { get; set; }
@@ -17,9 +21,7 @@ namespace Common.Models
         public Guid ActivationCode { get; set; }
         public bool IsActive { get; set; }
         public bool IsDeleted { get; set; }
-        public bool IsDemo { get; set; }
-        public DateTime? LastSyncDateTime { get; set; }
-        public DateTime CreatedDateTime { get; set; }
-        public DateTime? ModifiedDateTime { get; set; }
+
+        public IList<Role> Roles { get; set; }
     }
 }

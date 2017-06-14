@@ -4,9 +4,12 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Dac.
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Common.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\EntityFramework.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Newtonsoft.Json.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Common.pdb
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Common.dll.config
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\EntityFramework.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\bin\Debug\Newtonsoft.Json.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\obj\Debug\Dac.csprojResolveAssemblyReference.cache
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\obj\Debug\Dac.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\Dac\Dac\obj\Debug\Dac.pdb

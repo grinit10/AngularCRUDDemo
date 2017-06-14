@@ -1,4 +1,5 @@
-﻿using Common.Models;
+﻿using Common.Identity;
+using Common.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -12,7 +13,10 @@ namespace Dac.Interfaces
     {
         IDbSet<Property> Properties { get; set; }
         IDbSet<Company> Companies { get; set; }
-
+        IDbSet<User> Users { get; set; }
+        IDbSet<Role> Roles { get; set; }
+        IDbSet<UserRole> UserRoles { get; set; }
+        //IDbSet<UserClaim> UserClaims { get; set; }
         int SaveChanges();
     }
 }

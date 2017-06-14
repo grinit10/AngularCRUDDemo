@@ -1,17 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Common.Viewmodels
 {
-    public class Registervm : AuditableEntity<int>
+    public class Uservm : AuditableEntity<int>
     {
         [Required]
         public string Name { get; set; }
+        [Required]
         public string password { get; set; }
+        [Required]
         public string RepeatPassword { get; set; }
         public string email { get; set; }
     }

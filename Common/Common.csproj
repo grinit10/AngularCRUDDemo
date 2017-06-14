@@ -96,8 +96,12 @@
     <Compile Include="Interfaces\IEntity.cs" />
     <Compile Include="Models\Company.cs" />
     <Compile Include="Models\Property.cs" />
+    <Compile Include="Models\Role.cs" />
     <Compile Include="Models\User.cs" />
+    <Compile Include="Models\UserRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\UserClaim.cs" />
+    <Compile Include="Viewmodels\Activationvm.cs" />
     <Compile Include="Viewmodels\Propertyvm.cs" />
     <Compile Include="Viewmodels\Registervm.cs" />
   </ItemGroup>

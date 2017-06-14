@@ -11,7 +11,7 @@ namespace AngularCRUDDemo.Clients
     {
         HttpClient client;
         //The URL of the WEB API Service
-        string Baseurl = WebConfigurationManager.AppSettings["Baseurl"];
+        string Baseurl = WebConfigurationManager.AppSettings["Baseurl"] + "/Property/";
 
         public PropertyClient()
         {

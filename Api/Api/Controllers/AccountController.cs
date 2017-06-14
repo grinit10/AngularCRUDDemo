@@ -1,4 +1,6 @@
-﻿using Common.Viewmodels;
+﻿using Common.Models;
+using Common.Viewmodels;
+using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,21 +12,33 @@ namespace Api.Controllers
 {
     public class AccountController : ApiController
     {
-        // GET api/<controller>
-        public IEnumerable<string> Register(Registervm usr)
+        private IUserRepository _repository;
+        public AccountController(IUserRepository repo)
         {
-            return new string[] { "value1", "value2" };
+            _repository = repo;
+        }
+        
+        [HttpPost]
+        public Activationvm Register(Uservm usr)
+        {
+            return _repository.Register(usr);
         }
 
-        // GET api/<controller>/5
-        public string Get(int id)
+        [HttpPut]
+        public bool ActivateUser(Activationvm act)
         {
-            return "value";
+            return _repository.ActivateUser(act.email, act.ActivationCode);
+        }
+        [HttpGet]
+        public User FindUserByName(string name)
+        {
+            return _repository.FindByName(name);
         }
 
-        // POST api/<controller>
-        public void Post([FromBody]string value)
+        [HttpGet]
+        public IList<Role> FindRolesbyUser(string name)
         {
+            return _repository.RolesbyUser(name);
         }
 
         // PUT api/<controller>/5

@@ -5,13 +5,16 @@ using AngularCRUDDemo.Clients;
 using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
+using AngularCRUDDemo.Security;
 
 namespace AngularCRUDDemo.Controllers
 {
+    
     public class PropertyController : Controller
     {
         private PropertyClient client = null;
 
+        [CustomAuthorize]
         public ActionResult Index()
         {
             return View();
@@ -48,6 +51,7 @@ namespace AngularCRUDDemo.Controllers
         }
 
         [HttpPost]
+        [CustomAuthorize(Roles = "superadmin,admin")]
         public async Task<JsonResult> AddProperty(Propertyvm prop)
         {
             using (client = new PropertyClient())
@@ -61,6 +65,7 @@ namespace AngularCRUDDemo.Controllers
         }
 
         [HttpPost]
+        [CustomAuthorize(Roles = "superadmin,admin")]
         public async Task<JsonResult> UpdateProperty(Propertyvm prop)
         {
             using (client = new PropertyClient())
@@ -74,6 +79,7 @@ namespace AngularCRUDDemo.Controllers
         }
 
         [HttpPost]
+        [CustomAuthorize(Roles = "superadmin")]
         public async Task<JsonResult> DeleteProperty(int id)
         {
             using (client = new PropertyClient())

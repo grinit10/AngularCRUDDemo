@@ -143,6 +143,7 @@ namespace Repository.Repositories
                 throw new Exception(ex.Message, ex);
             }
         }
+
         private Property CopyProperty(Propertyvm prop)
         {
             Property property = new Property();

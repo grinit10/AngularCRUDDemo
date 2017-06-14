@@ -14,11 +14,12 @@ namespace Api
         {
             var container = new UnityContainer();
             container.RegisterType<IPropertyRepository, PropertyRepository>(new HierarchicalLifetimeManager());
+            container.RegisterType<IUserRepository, UserRepository>(new HierarchicalLifetimeManager());
+            container.RegisterType<IRoleRepository, RoleRepository>(new HierarchicalLifetimeManager());
             container.RegisterType<IApplicationDBContext, ApplicationDBContext>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
             // Web API configuration and services
-
-            // Web API routes
+            
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(

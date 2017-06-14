@@ -51,8 +51,12 @@
   <ItemGroup>
     <Compile Include="DbContext\IApplicationDBContext.cs" />
     <Compile Include="DbContext\ApplicationDBContext.cs" />
+    <Compile Include="Mappings\ClaimsMapping.cs" />
     <Compile Include="Mappings\CompanyMapping.cs" />
     <Compile Include="Mappings\PropertyMapping.cs" />
+    <Compile Include="Mappings\RoleMapping.cs" />
+    <Compile Include="Mappings\UserMapping.cs" />
+    <Compile Include="Mappings\UserRoleMapping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

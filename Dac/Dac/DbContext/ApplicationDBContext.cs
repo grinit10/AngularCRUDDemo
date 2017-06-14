@@ -9,6 +9,7 @@ using System.Threading;
 using System.Data;
 using Dac.Interfaces;
 using Dac.Mappings;
+using Common.Identity;
 
 namespace Dac.DbContext
 {
@@ -21,11 +22,19 @@ namespace Dac.DbContext
 
         public IDbSet<Property> Properties { get; set; }
         public IDbSet<Company> Companies { get; set; }
+        public IDbSet<User> Users { get; set; }
+        public IDbSet<Role> Roles { get; set; }
+        public IDbSet<UserRole> UserRoles { get; set; }
+        //public IDbSet<UserClaim> UserClaims { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             CompanyMapping.CreateMapping(modelBuilder);
             PropertyMapping.CreateMapping(modelBuilder);
+            UserMapping.CreateMapping(modelBuilder);
+            UserRoleMapping.CreateMapping(modelBuilder);
+            RoleMapping.CreateMapping(modelBuilder);
+            //ClaimsMapping.CreateMapping(modelBuilder);
         }
 
         public override int SaveChanges()
