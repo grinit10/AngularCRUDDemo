@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Security.Principal;
 using Common.Models;
 using Common.Viewmodels;
@@ -9,6 +7,9 @@ using AngularCRUDDemo.Clients;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Repository.Interfaces;
+using Dac.DbContext;
+using Repository.Repositories;
 
 namespace AngularCRUDDemo.Security
 {
@@ -19,10 +20,13 @@ namespace AngularCRUDDemo.Security
         private AccountClient client;
 
         public Uservm um = new Uservm();
+        ApplicationDBContext db = new ApplicationDBContext();
+        private UserRepository _repo;
 
         public CustomPrincipal(string name)
         {
-            user = FindUserByNameAsync(name).Result;
+            _repo = new UserRepository(db);
+            user = _repo.FindByName(name);
             Identity = new GenericIdentity(name);
         }
 
@@ -60,9 +64,14 @@ namespace AngularCRUDDemo.Security
 
         public bool IsInRole(string role)
         {
-            var roles = role.Split(new char[] { ',' });
-            IList<Role> UserRoles = FindRolesbyUserAsync().Result;
-            return UserRoles.Any(r => roles.Contains(r.RoleName));
+            if (string.IsNullOrEmpty(role))
+                return true;
+            else
+            {
+                var roles = role.Split(new char[] { ',' });
+                IList<Role> UserRoles = _repo.RolesbyUser(user.Name);
+                return UserRoles.Any(r => roles.Contains(r.RoleName));
+            }
         }
     }
 }

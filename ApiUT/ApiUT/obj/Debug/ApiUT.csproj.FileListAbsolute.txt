@@ -1,4 +1,3 @@
-C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.csprojResolveAssemblyReference.cache
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\ApiUT.dll.config
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\ApiUT.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\ApiUT.pdb
@@ -19,5 +18,6 @@ C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\Castle.Core.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\Moq.xml
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.csprojResolveAssemblyReference.cache
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.dll
 C:\Users\CriticalRiver\Desktop\New folder\AngularCRUDDemo\ApiUT\ApiUT\obj\Debug\ApiUT.pdb

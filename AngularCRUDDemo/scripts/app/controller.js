@@ -39,7 +39,10 @@ PropControllers.controller("DeleteController", ['$scope', '$http', '$routeParams
         });
         $scope.delete = function () {
             PropertyService.delproperty($scope.id).then(function (resp) {
-                alert(resp.data.message);
+                if (resp.data.message != null)
+                    alert(resp.data.message);
+                else
+                    alert("You don't have access to delete this property!!");
                 $location.path('/list');
             });
         };
@@ -62,13 +65,19 @@ PropControllers.controller("EditController", ['$scope', '$filter', '$http', '$ro
             };
             if ($scope.id == 0) {
                 PropertyService.addproperty(prop).then(function (resp) {
-                    alert(resp.data.message);
+                    if (resp.data.message != null)
+                        alert(resp.data.message);
+                    else
+                        alert("You don't have access to update this property!!");
                     $location.path('/list');
                 });
             }
             else {
                 PropertyService.updateproperty(prop).then(function (resp) {
-                    alert(resp.data.message);
+                    if (resp.data.message != null)
+                        alert(resp.data.message);
+                    else
+                        alert("You don't have access to update this property!!");
                     $location.path('/list');
                 });
             }

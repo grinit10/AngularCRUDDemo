@@ -104,7 +104,10 @@ namespace AngularCRUDDemo.Controllers
         [HttpGet]
         public ActionResult Login()
         {
-            return View();
+            if(!string.IsNullOrEmpty(SessionPersister.Username))
+                return RedirectToAction("Index", "Property");
+            else
+                return View();
         }
 
         [HttpPost]

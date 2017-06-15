@@ -14,7 +14,12 @@ namespace Repository.Repositories
 {
     public class UserRepository : IDisposable, IUserRepository
     {
-        private IApplicationDBContext _db;
+        public IApplicationDBContext _db;
+
+        public UserRepository()
+        {
+
+        }
 
         public UserRepository(IApplicationDBContext ctx)
         {

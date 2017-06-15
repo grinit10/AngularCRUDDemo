@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularCRUDDemo", "AngularCRUDDemo\AngularCRUDDemo.csproj", "{85815154-3E3D-4D7C-AFD9-C81E7B6E66E9}"
 EndProject
@@ -14,6 +14,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiUT", "ApiUT\ApiUT\ApiUT.csproj", "{55041E36-2893-4255-945B-926CA45A6D4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dac", "Dac\Dac\Dac.csproj", "{B352998C-A6D8-4746-AC25-14A1E9E03936}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_data", "App_data", "{EF1EF9A5-76D3-4599-99C5-160EC4375DB7}"
+	ProjectSection(SolutionItems) = preProject
+		App_data\PropertyDB.mdf = App_data\PropertyDB.mdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

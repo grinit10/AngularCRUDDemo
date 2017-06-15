@@ -35,6 +35,7 @@ namespace AngularCRUDDemo.Controllers
             return Json(properties, JsonRequestBehavior.AllowGet);
         }
 
+        [CustomAuthorize]
         public async Task<JsonResult> GetPropertyById(int id)
         {
             Propertyvm prop = new Propertyvm();
